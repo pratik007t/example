@@ -5,8 +5,4 @@
     <h1>pratik test</h1>add.
 
     <h3>hello i have second changes <CheckBox>Master</CheckBox></h3>
-    
-
-    
-
 </body>
